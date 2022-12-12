@@ -2,7 +2,9 @@
 
 在中文上的简单实验
 
-## 解读
+## 详细解读
+
+https://mp.weixin.qq.com/s/4j8dI4hhgPoYSqsD5La3Ww
 
 ## 实现
 
